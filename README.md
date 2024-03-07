@@ -8,8 +8,6 @@
 - 🔭 Comic [Comic](https://github.com/dinhnguyenminhhoang/comic-clone.git)
 
 - 👯 NextJs/E-comcommerce [E-comcommerce](https://github.com/dinhnguyenminhhoang/e-commerce__nextJs.git)
-
-- CV Tiếng Việt : <a align="left" href="https://drive.google.com/file/d/1naGuhqNL5kTzMQqCCWzSYxC2tV06OGu0/view?usp=drive_link" alt="">Tại đây</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hoangdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hoangdev" height="30" width="40" /></a>

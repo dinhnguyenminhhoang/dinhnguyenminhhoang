@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đinh Nguyễn Minh Hoàng</h1>
 <h3 align="center">I am a frontend develop.</h3>
-<img src="https://ucarecdn.com/32362b33-ee43-4795-804b-665890ca35f7/-/preview/1024x1024/-/quality/smart_retina/-/format/auto/" alt="" width = "400px" align="right"/>
-
 - project used React
   +  🔭 Comic [Comic](https://github.com/dinhnguyenminhhoang/comic-clone.git)
   +  👯 NextJs/E-comcommerce [E-comcommerce](https://github.com/dinhnguyenminhhoang/e-commerce__nextJs.git)

@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Đinh Nguyễn Minh Hoàng</h1>
-<h3 align="center">I am a website programmer in Vietnam.</h3>
+<h3 align="center">I am a frontend develop.</h3>
 <img src="https://ucarecdn.com/32362b33-ee43-4795-804b-665890ca35f7/-/preview/1024x1024/-/quality/smart_retina/-/format/auto/" alt="" width = "400px" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhnguyenminhhoang&label=Profile%20views&color=0e75b6&style=flat" alt="dinhnguyenminhhoang" /> </p>
 
-
-- 🔭 Comic [Comic](https://github.com/dinhnguyenminhhoang/comic-clone.git)
-
-- 👯 NextJs/E-comcommerce [E-comcommerce](https://github.com/dinhnguyenminhhoang/e-commerce__nextJs.git)
+- project used React
+  +  🔭 Comic [Comic](https://github.com/dinhnguyenminhhoang/comic-clone.git)
+  +  👯 NextJs/E-comcommerce [E-comcommerce](https://github.com/dinhnguyenminhhoang/e-commerce__nextJs.git)
+  +  ...
+- project used Reac-native
+  + Comics app [Comic](https://github.com/dinhnguyenminhhoang/Comics_app_2024)
+  + Traval App [Tranval](https://github.com/dinhnguyenminhhoang/Travel_App_2024)
+  + Coffee App [Coffee](https://github.com/dinhnguyenminhhoang/Coffee_Shop_App_2024)
+  + ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hoangdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hoangdev" height="30" width="40" /></a>

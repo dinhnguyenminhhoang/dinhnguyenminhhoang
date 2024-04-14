@@ -2,8 +2,6 @@
 <h3 align="center">I am a frontend develop.</h3>
 <img src="https://ucarecdn.com/32362b33-ee43-4795-804b-665890ca35f7/-/preview/1024x1024/-/quality/smart_retina/-/format/auto/" alt="" width = "400px" align="right"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhnguyenminhhoang&label=Profile%20views&color=0e75b6&style=flat" alt="dinhnguyenminhhoang" /> </p>
-
 - project used React
   +  🔭 Comic [Comic](https://github.com/dinhnguyenminhhoang/comic-clone.git)
   +  👯 NextJs/E-comcommerce [E-comcommerce](https://github.com/dinhnguyenminhhoang/e-commerce__nextJs.git)

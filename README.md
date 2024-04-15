@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Đinh Nguyễn Minh Hoàng</h1>
 <h3 align="center">I am a frontend develop.</h3>
+# CV
+- **V1** : [chia ô](https://drive.google.com/file/d/1FUKKlTTOGlbwa7XliRFecvT4SoLbO2sW/view?usp=drive_link](https://drive.google.com/file/d/14V3uaaHlAVMTQuz1nLNEI7twOfFmsqsJ/view?usp=drive_link)
+# Tín chỉ [Google,...](https://drive.google.com/drive/folders/1EHDxSJu2QAYtM2doInlLa6eFpIaF4HMi?usp=drive_link) 
 
 # Tổng Quan Dự Án
 Trong repository này, bạn sẽ tìm thấy các dự án của tôi sử dụng React và React Native. Mỗi dự án được thiết kế với mục tiêu cung cấp giải pháp hiệu quả và trực quan cho người dùng.

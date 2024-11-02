@@ -1,20 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đinh Nguyễn Minh Hoàng</h1>
 <h3 align="center">I am a frontend develop.</h3>
-# Tổng Quan Dự Án
-Trong repository này, bạn sẽ tìm thấy các dự án của tôi sử dụng React và React Native. Mỗi dự án được thiết kế với mục tiêu cung cấp giải pháp hiệu quả và trực quan cho người dùng.
-
-## Dự Án Sử Dụng React
-
-- 🔭 **Comic Clone**: Mô phỏng ứng dụng đọc truyện tranh. Xem Repo
-- 👯 **NextJs E-commerce**: Nền tảng thương mại điện tử với NextJs. Xem Repo
-- ...
-
-## Dự Án Sử Dụng React Native
-
-- 📚 **Comics App**: Ứng dụng đọc truyện tranh cho di động. Xem Repo
-- ✈️ **Travel App**: Ứng dụng hỗ trợ du lịch. Xem Repo
-- ☕ **Coffee Shop App**: Ứng dụng quản lý quán cà phê. Xem Repo
-- ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

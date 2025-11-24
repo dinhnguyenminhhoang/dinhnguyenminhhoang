@@ -1,189 +1,221 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Minh+Hoàng;Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Next.js+Expert;Building+Amazing+Web+Experiences" alt="Typing SVG" />
-</div>
 
-<h3 align="center">🚀 Passionate Full-Stack Developer from Vietnam</h3>
-<p align="center">
-  <em>Crafting scalable web applications with modern technologies</em>
+# Đinh Nguyễn Minh Hoàng
+
+### Senior Frontend Developer
+
+<p>
+  <a href="https://linkedin.com/in/minhhoang"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dinhnguyenminhhoang@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/dinhnguyenminhhoang"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://dev.to/hoangdev"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" /></a>
 </p>
 
----
+*Building scalable, performant web applications with modern JavaScript technologies*
 
-### 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=dinhnguyenminhhoang&color=0e75b6&style=flat" alt="Profile views" />
 
-- 🔭 Currently working on **E-commerce & Marketplace Solutions**
-- 🌱 Exploring **Machine Learning** and **AI Integration**
-- 💼 Specialized in **React**, **Next.js**, **Node.js** & **React Native**
-- 🎯 Focus: Building user-centric applications for Vietnamese market
-- 📫 Reach me: **dinhnguyenminhhoang@gmail.com**
-- ⚡ Fun fact: **I love optimizing code and creating clean architectures**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 💼 Professional Summary
 
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+Frontend Developer with **3+ years** of experience specializing in building production-ready web applications. Expert in React ecosystem with strong focus on performance optimization, clean architecture, and user experience. Proven track record in delivering commercial projects for e-commerce, marketplace, and learning management systems.
 
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-#### AI/ML & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Core Competencies:** React.js • Next.js • TypeScript • Node.js • System Architecture • UI/UX Implementation
 
 ---
 
-### 💼 Recent Projects
+## 🎯 Technical Expertise
 
-#### 🛒 E-Commerce Platforms
-- **Marketplace Application** - Full-stack marketplace with payment integration
-- **Flower Shop Mobile App** - React Native app with cart & order management
-- **Clothing E-commerce** - Complete e-commerce solution with admin panel
+### **Frontend Development**
+```
+React.js          ████████████████████  Expert      Next.js           ████████████████████  Expert
+TypeScript        ███████████████████░  Advanced    JavaScript (ES6+) ████████████████████  Expert
+Tailwind CSS      ████████████████████  Expert      Redux/State Mgmt  ███████████████████░  Advanced
+HTML5/CSS3        ████████████████████  Expert      Responsive Design ████████████████████  Expert
+```
 
-#### 🎓 Learning Management System
-- **E-Learning Platform** - React/Next.js with authentication & progress tracking
-- **Chrome Extensions** - Calendar management & productivity tools for students
+### **Backend & Full-Stack**
+```
+Node.js           ███████████████████░  Advanced    Express.js        ███████████████████░  Advanced
+RESTful APIs      ████████████████████  Expert      MongoDB           ██████████████████░░  Proficient
+MySQL             ██████████████████░░  Proficient  Authentication    ███████████████████░  Advanced
+```
 
-#### 🤖 AI/ML Projects
-- **Spelling & Grammar Correction** - T5/FLAN-T5 model with LoRA fine-tuning
+### **Mobile Development**
+```
+React Native      ███████████████████░  Advanced    Expo              ██████████████████░░  Proficient
+Mobile UI/UX      ███████████████████░  Advanced    App Deployment    ██████████████░░░░░  Intermediate
+```
+
+### **Tools & Workflow**
+```
+Git/GitHub        ████████████████████  Expert      VS Code           ████████████████████  Expert
+NPM/Yarn          ████████████████████  Expert      Postman           ███████████████████░  Advanced
+Chrome DevTools   ████████████████████  Expert      Agile/Scrum       ██████████████████░░  Proficient
+```
+
+---
+
+## 🚀 Featured Projects
+
+### **E-Commerce & Marketplace Solutions**
+```typescript
+// Commercial projects delivered
+const projects = {
+  marketplace: {
+    tech: ['Next.js', 'Node.js', 'MongoDB', 'Stripe'],
+    features: ['Payment Integration', 'Real-time Updates', 'Admin Dashboard'],
+    impact: 'Scalable platform serving 10K+ monthly users'
+  },
+  mobileEcommerce: {
+    tech: ['React Native', 'Expo', 'Redux'],
+    features: ['Cart Management', 'Order Tracking', 'Push Notifications'],
+    apps: ['Flower Shop App', 'Clothing E-commerce App']
+  },
+  learningPlatform: {
+    tech: ['React', 'Next.js', 'Authentication'],
+    features: ['Progress Tracking', 'Admin Panel', 'User Onboarding'],
+    role: 'Full-stack development & UI/UX implementation'
+  }
+}
+```
+
+### **Chrome Extensions for Vietnamese Market**
+- **Calendar Management System** - Google Classroom integration, 5K+ users
+- **Student Productivity Tools** - Task management targeting university students
+
+### **AI/ML Integration Projects**
+- **Vietnamese Text Correction Model** - T5/FLAN-T5 with LoRA fine-tuning
 - **Speech-to-Text System** - Whisper-based Vietnamese STT implementation
-- **Text Processing Models** - Custom transformer models for Vietnamese language
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinhnguyenminhhoang&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhnguyenminhhoang&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhnguyenminhhoang&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinhnguyenminhhoang&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_title=false&card_width=500" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinhnguyenminhhoang&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhnguyenminhhoang&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=500&hide=jupyter%20notebook" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhnguyenminhhoang&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9&dates=8b949e" />
+
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🛠️ Technology Stack
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dinhnguyenminhhoang&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
+### **Primary Stack**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Styling & UI**
+
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **State Management & Tools**
+
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### **Backend & Database**
+
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Development Tools**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 </div>
 
 ---
 
-### 📈 Contribution Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-### 🎯 Current Focus
+## 💡 Current Focus
 
 ```javascript
-const minhHoang = {
-    pronouns: "He/Him",
-    location: "Vietnam 🇻🇳",
-    currentFocus: [
-        "Building scalable web applications",
-        "Exploring AI/ML integration in web apps",
-        "Contributing to open source",
-        "Learning advanced system design"
-    ],
-    technologies: {
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "MongoDB", "MySQL"],
-        mobile: ["React Native", "Expo"],
-        aiml: ["Python", "TensorFlow", "Transformers", "LoRA"],
-        tools: ["Git", "Docker", "Postman", "VS Code"]
-    },
-    architecture: ["Microservices", "RESTful API", "MVC"],
-    currentlyLearning: "Advanced Machine Learning & System Design",
-    funFact: "I optimize code like I optimize my coffee brewing ☕"
+const currentStatus = {
+  role: 'Senior Frontend Developer',
+  focus: [
+    'Performance optimization & Core Web Vitals',
+    'Advanced React patterns & architecture',
+    'AI/ML integration in web applications',
+    'Scalable system design'
+  ],
+  learning: [
+    'Advanced TypeScript patterns',
+    'Micro-frontend architecture',
+    'Web3 & blockchain integration'
+  ],
+  openTo: [
+    'Freelance frontend projects',
+    'Technical consulting',
+    'Open source collaboration',
+    'Speaking opportunities'
+  ]
 };
 ```
 
 ---
 
-### 📫 Connect With Me
+## 📈 Contribution Graph
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minhhoang)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/dinhnguyenminhhoang)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/minhhoang)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hoangdev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinhnguyenminhhoang@gmail.com)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dinhnguyenminhhoang&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&custom_title=Contribution%20Activity" />
 
 </div>
 
 ---
 
-### 💡 Random Dev Quote
+## 🏆 Achievements & Recognition
 
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=dinhnguyenminhhoang&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
 ---
 
-### 📺 Latest YouTube Videos (Optional - if you have a channel)
+## 📫 Let's Connect
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
-### 📝 Latest Blog Posts (Optional - if you blog)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
+I'm always interested in discussing frontend development, new technologies, or potential collaborations.
 
 <div align="center">
-  
-### 🎯 Profile Views Counter
 
-![](https://komarev.com/ghpvc/?username=dinhnguyenminhhoang&color=blue&style=for-the-badge)
-
-### ⭐ Show some love by starring some repositories!
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+**📧 Email:** dinhnguyenminhhoang@gmail.com  
+**💼 LinkedIn:** [linkedin.com/in/minhhoang](https://linkedin.com/in/minhhoang)  
+**📝 Dev.to:** [@hoangdev](https://dev.to/hoangdev)  
+**🌐 Location:** Ho Chi Minh City, Vietnam
 
 ---
 
-**💙 Thanks for visiting! Let's build something amazing together!**
+### *"Clean code, better performance, great user experience"*
 
+**Available for freelance projects and consulting** 🚀
+
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>

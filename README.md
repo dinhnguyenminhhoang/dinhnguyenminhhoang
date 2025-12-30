@@ -177,7 +177,6 @@ const minhHoang = {
 - ✅ Payment Gateway Integration
 - ✅ Real-time Notifications
 - ✅ Admin Dashboard & Analytics
-- ✅ 10K+ Monthly Users
 
 </td>
 <td width="50%">
@@ -217,7 +216,6 @@ const minhHoang = {
 - ✅ Calendar Management
 - ✅ Google Classroom Integration
 - ✅ Student Productivity Tools
-- ✅ 5K+ Active Users
 
 </td>
 </tr>

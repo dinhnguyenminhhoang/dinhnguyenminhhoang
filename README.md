@@ -44,7 +44,7 @@
 ```typescript
 const minhHoang = {
     fullName: "Đinh Nguyễn Minh Hoàng",
-    role: "Senior Frontend Developer",
+    role: "Frontend Developer",
     location: "Ho Chi Minh City, Vietnam 🇻🇳",
     
     workingOn: {
@@ -54,7 +54,7 @@ const minhHoang = {
         ai_ml: ["Python", "TensorFlow", "Transformers"]
     },
     
-    experience: "3+ years",
+    experience: "1+ years",
     
     currentFocus: [
         "🎨 Building beautiful, performant web apps",
